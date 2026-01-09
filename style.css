@@ -259,7 +259,7 @@ button:focus{ outline: unset; }
 }
 
 .the-cast {
-	background: url('../images/magic-groups-bg.jpg'), #000;
+	background: url('https://static.wixstatic.com/media/a802ad_4b9aa1192b144f878b8e9431755fbc60~mv2.jpg'), #000;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom center;
